@@ -66,7 +66,7 @@ else:
 
         # Breakfast
         with col1:
-            st.subheader("🍳 Breakfast")
+            st.subheader("🥪 Breakfast")
 
             b = st.text_area(
                 "Breakfast",
@@ -92,7 +92,7 @@ else:
 
         # Dinner
         with col3:
-            st.subheader("🍽️ Dinner")
+            st.subheader("🥘 Dinner")
 
             d = st.text_area(
                 "Dinner",
