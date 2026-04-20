@@ -58,7 +58,7 @@ else:
     # ---------------- MENU (AUTO-SAVE NOTEPAD STYLE) ----------------
     if menu == "Menu":
 
-        st.title("🍽️ Menu")
+        st.title("📋 Menu")
 
         menu_data = load_menu()
 
